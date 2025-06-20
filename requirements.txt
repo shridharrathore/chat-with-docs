@@ -1,3 +1,10 @@
 streamlit
 PyMuPDF
 ebooklib
+sentence-transformers
+faiss-cpu
+python-dotenv
+requests
+ebooklib
+docx
+python-docx
